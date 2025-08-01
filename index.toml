@@ -121,6 +121,11 @@ hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
 metafile = true
 
 [[files]]
+file = "mods/forceport.pw.toml"
+hash = "95a202734a2d0dc01d29ac1493cc0ab9ec9a7e916518fb4a24022880cd8ddd95"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "4449401b59481016fa2a66d6e749795129160cb1ab3e7932e15033c6b5815455"
 metafile = true
