@@ -156,11 +156,6 @@ hash = "5629568659cd84d843dc94850b34febe025c970f7236a5ee59a67ebb98269a7d"
 metafile = true
 
 [[files]]
-file = "mods/eureka.pw.toml"
-hash = "8ea11b348e14a256d830dd40f0e1d6736d069a8cc1e0b2a6747db6256be5247f"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "2b7949e506ba69c57139127c0ccc6caf5a9ec5ec97788b81288118db3d7c2ad3"
 metafile = true
@@ -398,11 +393,6 @@ metafile = true
 [[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "82f2482d9c8e39dbdc8cf303866d7fb087861aec2a0b5564ce7fc37caf274750"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "0bcbf6c7885b85f393db25bbf0a3206662f4658078536e90525fa83911e4b1dd"
 metafile = true
 
 [[files]]
