@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "4c6bd9db593961209b5b8836f4bb05ff86791fd981fce381569220a23ef5c5aa"
+hash = "a10f7f1072508bbe2d8d9cd9ce980cabc46805568ae9f055a5f47622aead26a7"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania.pw.toml"
-hash = "8fd4ddf48d8e591c6a8708921579a94628f7c6eba5e102c42fc0f544b60c621d"
+hash = "c325387d3cbdf2658de2a51ea6235b610505c6de8dc8be71799d050c713c88a2"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "936f8e3b23ec686afb7bf7f379984662f44099bc54f11767445ef2bd3e70fde7"
+hash = "25eaf217efd36d674b35fe2577c41736bcceb2961224ce9dd3e67be0bd483d1d"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "d9c5210eba2029803417c8bb52345bac716834e13ba0dc989b11b4fe98007a98"
+hash = "9cd1bfa718de9a9707fbd76216e5a0c06b00d5fb393ecc55e43b9c6c578a4817"
 metafile = true
 
 [[files]]
@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "e24d233c032457be11c5ceda7bc449e6c24d20da149609e14cc5bad53a254329"
+hash = "0b7fc39a0c4929bde5bf84c6b9043cffc6ae784ce2d19f0de160b9737631fb06"
 metafile = true
 
 [[files]]
@@ -402,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "6910db817b51211faf603d5dc922721fa8d23bf6b373673f3113b4df45806a93"
+hash = "982ddeeb761a8e001ed2b0487b916bb08d012666d369c7e6aeb0e5d950b6e99f"
 metafile = true
 
 [[files]]
@@ -497,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "1be39caa3b3065f54626ea421d4f7e2fc655225802728be567c38aa42dce623b"
+hash = "a6fb7aeeb780fd5cc931a503737a4e03eaa735e19dba5e0e2c7138020304eee2"
 metafile = true
 
 [[files]]
